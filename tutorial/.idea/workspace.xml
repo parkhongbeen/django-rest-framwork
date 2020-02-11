@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca75374-bc6f-4120-97df-ff9bf1456ddf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,10 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="356" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.710@0.23.1280.710" timestamp="1581349513110" />
+    <state x="453" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1581387753867">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="453" y="101" key="#com.intellij.ide.util.MemberChooser/0.23.1280.710@0.23.1280.710" timestamp="1581387753867" />
     <state x="427" y="139" key="FileChooserDialogImpl" timestamp="1581348140343">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
